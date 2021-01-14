@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Welcome to lil Xiao's Site
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+## Introduction
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+This site serves the following purposes:
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* attempt to make customized `web pages`
+* host of my `resume`
+* documentation of my career `life`
+* ...
