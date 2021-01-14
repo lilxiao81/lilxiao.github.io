@@ -1,2 +1,2 @@
 # lilxiao.github.io
-A brief digital documentation of my life
+A tentative attempt to construct my first web page
